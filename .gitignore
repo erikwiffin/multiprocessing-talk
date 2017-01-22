@@ -1,0 +1,4 @@
+ENV
+.ipynb_checkpoints
+__pycache__
+*.rdb
